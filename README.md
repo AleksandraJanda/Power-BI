@@ -13,9 +13,9 @@
 </td>
   </tr>
   <tr>
-    <td><img width="1527" height="857" alt="Lab Dashboard 5" src="https://github.com/user-attachments/assets/00e1fc57-f3b0-4c11-a5d8-9c3ae272ac1b" />
+    <td><img width="1450" height="809" alt="Lab Dashboard 5" src="https://github.com/user-attachments/assets/120b4f04-8e33-4eee-b71d-3201d4826343" />
 </td>
-    <td><img width="1527" height="857" alt="Lab Dashboard 6" src="https://github.com/user-attachments/assets/88cdcbfc-6a13-45ad-afd3-cb9f1edd2215" />
+    <td><img width="1450" height="809" alt="Lab Dashboard 6" src="https://github.com/user-attachments/assets/383efa75-ab58-423d-833b-faa10fd20520" />
 </td>
   </tr>
 </table>
